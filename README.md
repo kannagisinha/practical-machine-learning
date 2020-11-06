@@ -1,3 +1,3 @@
 # practical-machine-learning
 
-This is the peer proect of the course Practical Machine Learning of Coursera
+This is the peer project of the course Practical Machine Learning of Coursera
